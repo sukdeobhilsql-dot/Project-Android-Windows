@@ -1,2 +1,4 @@
-<!-- String Resources -->
-<!-- Decompressed from src.zip -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project Android Windows</string>
+</resources>
