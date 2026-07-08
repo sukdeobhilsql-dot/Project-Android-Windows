@@ -1,6 +1,8 @@
 name: Extract AWOS Zip and commit
 
 on:
+  push:
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
